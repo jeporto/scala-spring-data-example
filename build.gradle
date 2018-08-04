@@ -31,7 +31,7 @@ dependencies {
 }
 
 jar {
-    baseName = 'kotlin-spring-data-example'
+    baseName = 'scala-spring-data-example'
     version = version
 }
 
